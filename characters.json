@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Man",
+    "image": "ironman.jpg",
+    "description": "Genius, billionaire, playboy, philanthropist."
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "image": "captainamerica.jpg",
+    "description": "Super soldier with a vibranium shield."
+  },
+  {
+    "id": 3,
+    "name": "Thor",
+    "image": "thor.jpg",
+    "description": "God of Thunder."
+  },
+  {
+    "id": 4,
+    "name": "Black Widow",
+    "image": "blackwidow.jpg",
+    "description": "Highly trained spy and assassin."
+  },
+  {
+    "id": 5,
+    "name": "Hulk",
+    "image": "hulk.jpg",
+    "description": "Green giant with incredible strength."
+  }
+]
